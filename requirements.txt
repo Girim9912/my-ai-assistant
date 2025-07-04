@@ -1,0 +1,9 @@
+streamlit
+transformers
+pyttsx3
+speechrecognition
+pyaudio
+python-dotenv
+torch
+pyttsx3
+openai
